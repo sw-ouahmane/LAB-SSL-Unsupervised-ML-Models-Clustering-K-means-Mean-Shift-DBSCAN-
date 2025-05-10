@@ -6,6 +6,10 @@ This project is part of the **Deep Learning Lab** module within the **Machine an
 
 We implement a **Siamese Neural Network** using **PyTorch** to generate embeddings from the MNIST dataset. These embeddings enable the computation of similarity between handwritten digit images and can serve as input for clustering algorithms like **K-Means**.
 
+## 🎥 Vidéo explicative du projet
+
+▶️ [Voir la vidéo sur Google Drive](https://drive.google.com/drive/folders/19F_PFKTssigIrQLL05ZmXm9DwIy7PaBG)
+
 ## 👨‍💻 Team
 
 - **Adil Elmajdoubi**  
